@@ -1,0 +1,121 @@
+product_id,product_name,brand,product_type,hair_issue,key_ingredients,rating,description
+1,Nioxin System 2 Cleanser Shampoo,Nioxin,Shampoo,Alopecia Areata,Biotin,4.6,Designed to provide thicker-looking hair and a healthy scalp.
+2,Keranique Scalp Stimulating Shampoo,Keranique,Shampoo,Alopecia Areata,Ketoconazole,4.3,Stimulates the scalp and revitalizes the hair follicles.
+3,HairGenics Pronexa Hair Therapy Shampoo,HairGenics,Shampoo,Alopecia Areata,DHT Blockers,4.5,Promotes hair growth by blocking DHT.
+4,Pura D'or Original Gold Label Anti-Thinning Shampoo,Pura D'or,Shampoo,Alopecia Areata,Argan Oil,4.4,Nourishes and strengthens hair while reducing thinning.
+5,Biotin Shampoo for Hair Growth,Maple Holistics,Shampoo,Alopecia Areata,Biotin,4.5,Enhances hair growth and reduces breakage.
+6,Free & Clear Shampoo,Vanicream,Shampoo,Contact Dermatitis,Glycerin,4.4,Gentle non-irritating formula for sensitive scalps.
+7,Vanicream Free & Clear Hair Conditioner,Vanicream,Conditioner,Contact Dermatitis,Glycerin,4.2,Moisturizes and conditions hair without irritating the scalp.
+8,Biolage R.A.W. Nourish Shampoo,Biolage,Shampoo,Contact Dermatitis,Honey,4.6,Nourishing shampoo with natural ingredients for sensitive skin.
+9,Dermarest Psoriasis Medicated Shampoo,Dermarest,Shampoo,Contact Dermatitis,Salicylic Acid,4.3,Targets scalp irritation and helps reduce symptoms of psoriasis.
+10,Neutrogena T/Gel Therapeutic Shampoo,Neutrogena,Shampoo,Contact Dermatitis,Coal Tar,4.5,Clinically proven to control itching and flaking.
+11,Moroccanoil Treatment Light,Moroccanoil,Oil,Dry Hair,Argan Oil,4.8,Lightweight formula for fine or light-colored hair.
+12,SheaMoisture Manuka Honey & Mafura Oil Intensive Hydration Shampoo,SheaMoisture,Shampoo,Dry Hair,Manuka Honey,4.7,Deeply hydrates and restores moisture to dry hair.
+13,Olaplex No. 3 Hair Perfector,Olaplex,Treatment,Dry Hair,Bis-Aminopropyl Diglycol Dimaleate,4.9,Repairs and strengthens damaged hair.
+14,Maui Moisture Heal & Hydrate + Shea Butter Shampoo,Maui Moisture,Shampoo,Dry Hair,Shea Butter,4.5,Hydrates and repairs dry damaged hair.
+15,Joico Moisture Recovery Shampoo,Joico,Shampoo,Dry Hair,Sea Kelp,4.6,Restores moisture and smoothness to dry hair.
+16,Neutrogena T/Sal Therapeutic Shampoo,Neutrogena,Shampoo,Folliculitis,Salicylic Acid,4.5,Helps control scalp build-up and irritation.
+17,Paul Mitchell Tea Tree Special Shampoo,Paul Mitchell,Shampoo,Folliculitis,Tea Tree Oil,4.6,Invigorates the scalp and helps manage dandruff.
+18,CLn Healthy Scalp Shampoo,CLn,Shampoo,Folliculitis,Sodium Hypochlorite,4.4,Cleanses and soothes the scalp.
+19,Head & Shoulders Clinical Strength Shampoo,Head & Shoulders,Shampoo,Folliculitis,Selium Sulfide,4.3,Provides relief from severe dandruff and scalp irritation.
+20,Dove DermaCare Scalp Anti-Dandruff Shampoo,Dove,Shampoo,Folliculitis,Pyrithione Zinc,4.5,Gentle nourishing shampoo for dandruff-prone scalps.
+21,RID Lice Killing Shampoo,RID,Shampoo,Head Lice,Piperonyl Butoxide,4.3,Kills lice and their eggs effectively.
+22,NIX Lice Treatment Shampoo,NIX,Shampoo,Head Lice,Permethrin,4.2,Eliminates lice and prevents reinfestation.
+23,Sklice (Ivermectin) Lotion,Sklice,Lotion,Head Lice,Ivermectin,4.5,One-time treatment for head lice.
+24,NYDA Lice Treatment,NYDA,Treatment,Head Lice,Dimeticone,4.4,Effective in killing lice and their eggs.
+25,Clearlice Head Lice Treatment Shampoo,Clearlice,Shampoo,Head Lice,Neem Oil,4.6,Uses natural ingredients to eliminate lice.
+26,Living Proof Perfect Hair Day Shampoo,Living Proof,Shampoo,Healthy Hair,Octafluoropentyl Methacrylate,4.7,Provides smoothness volume and strength.
+27,Pantene Pro-V Daily Moisture Renewal Shampoo,Pantene,Shampoo,Healthy Hair,Pro-Vitamin B5,4.6,Moisturizes and repairs damaged hair.
+28,Biotin Shampoo for Hair Growth,Maple Holistics,Shampoo,Healthy Hair,Biotin,4.7,Strengthens and promotes healthy hair growth.
+29,Aveeno Scalp Soothing Fresh Greens Blend Shampoo,Aveeno,Shampoo,Healthy Hair,Apple Cider Vinegar,4.5,Cleanses and adds shine to the hair.
+30,Herbal Essences Bio:Renew Argan Oil of Morocco Shampoo,Herbal Essences,Shampoo,Healthy Hair,Argan Oil,4.6,Nourishes and revitalizes hair.
+31,MG217 Psoriasis Medicated Conditioning Shampoo,MG217,Shampoo,Lichen Planus,Coal Tar,4.2,Treats scalp symptoms associated with psoriasis and seborrheic dermatitis.
+32,Neutrogena T/Gel Therapeutic Shampoo Extra Strength,Neutrogena,Shampoo,Lichen Planus,Coal Tar,4.3,Controls itching and flaking caused by scalp conditions.
+33,DHS Zinc Shampoo,DHS,Shampoo,Lichen Planus,Zinc Pyrithione,4.1,Reduces dandruff and scalp irritation.
+34,Jason Dandruff Relief Treatment Shampoo,Jason,Shampoo,Lichen Planus,Sulfur,4.4,Treats and controls scalp dermatitis.
+35,Psoriatrax Coal Tar Shampoo,Psoriatrax,Shampoo,Lichen Planus,Coal Tar,4.3,Helps control the symptoms of psoriasis and dermatitis.
+36,Rogaine for Men Foam,Rogaine,Foam,Male Pattern Baldness,Minoxidil,4.5,Foam Rogaine Treatment for male pattern baldness
+37,Kirkland Minoxidil 5% Topical Solution,Kirkland,Topical Solution,Male Pattern Baldness,Minoxidil,4.4,Topical Solution KirklandTreatment for male pattern baldness
+38,Spectral.DNC-N by DS Laboratories,DS Laboratories,Topical Solution,Male Pattern Baldness,Nanoxidil,4.3,Topical Solution DS LaboratoriesTreatment for male pattern baldness
+39,Nutrafol Hair Growth Serum,Nutrafol,Serum,Male Pattern Baldness,Ashwagandha,4.5,Serum Nutrafol Treatment for male pattern baldness
+40,Propidren by HairGenics,HairGenics,Solution,Male Pattern Baldness,Saw Palmetto,4.4,Solution HairGenics Treatment for male pattern baldness
+41,Neutrogena T/Gel Therapeutic Shampoo,Neutrogena,Shampoo,Psoriasis,Coal Tar,4.4,Shampoo Neutrogena Treatment for psoriasis
+42,MG217 Medicated Conditioning Shampoo,MG217,Shampoo,Psoriasis,Coal Tar,4.5,Shampoo MG217 Treatment for psoriasis
+43,Dermarest Psoriasis Medicated Shampoo Plus Conditioner,Dermarest,Shampoo,Psoriasis,Salicylic Acid,4.3,Shampoo Dermarest Treatment for psoriasis
+44,Psoriasis Shampoo by ArtNaturals,ArtNaturals,Shampoo,Psoriasis,Tea Tree Oil,4.4,Shampoo ArtNaturals Treatment for psoriasis
+45,Head & Shoulders Clinical Strength Shampoo,Head & Shoulders,Shampoo,Psoriasis,Zinc Pyrithione,4.3,Shampoo Head & Shoulders Treatment for psoriasis
+46,Selsun Blue Medicated Maximum Strength,Selsun Blue,Shampoo,Seborrheic Dermatitis,Selenium Sulfide,4.6,Shampoo Selsun Blue Treatment for seborrheic dermatitis
+47,Head & Shoulders Clinical Strength Shampoo,Head & Shoulders,Shampoo,Seborrheic Dermatitis,Zinc Pyrithione,4.5,Shampoo Head & Shoulders Treatment for seborrheic dermatitis
+48,Neutrogena T/Sal Therapeutic Shampoo,Neutrogena,Shampoo,Seborrheic Dermatitis,Salicylic Acid,4.4,Shampoo Neutrogena Treatment for seborrheic dermatitis
+49,Dove DermaCare Scalp Anti-Dandruff Shampoo,Dove,Shampoo,Seborrheic Dermatitis,Pyrithione Zinc,4.5,Shampoo Dove Treatment for seborrheic dermatitis
+50,Nizoral A-D Anti-Dandruff Shampoo,Nizoral,Shampoo,Seborrheic Dermatitis,Ketoconazole,4.6,Shampoo Nizoral Treatment for seborrheic dermatitis
+51,OGX Biotin & Collagen Shampoo,OGX,Shampoo,Telogen Effluvium,Biotin,4.5,Shampoo OGX Treatment for telogen effluvium
+52,Revita Hair Stimulating Shampoo,Revita,Shampoo,Telogen Effluvium,Caffeine,4.4,Shampoo Revita Treatment for telogen effluvium
+53,ArtNaturals Argan Oil Shampoo,ArtNaturals,Shampoo,Telogen Effluvium,Argan Oil,4.3,Shampoo ArtNaturals Treatment for telogen effluvium
+54,Ultrax Labs Hair Surge Caffeine Hair Loss Shampoo,Ultrax Labs,Shampoo,Telogen Effluvium,Caffeine,4.4,Shampoo Ultrax Labs Treatment for telogen effluvium
+55,Mane 'n Tail Original Shampoo,Mane 'n Tail,Shampoo,Telogen Effluvium,Hydrolyzed Protein,4.2,Shampoo Mane 'n Tail Treatment for telogen effluvium
+56,Nizoral A-D Anti-Dandruff Shampoo,Nizoral,Shampoo,Tinea Capitis,Ketoconazole,4.4,Shampoo Nizoral Treatment for tinea capitis
+57,Head & Shoulders Clinical Strength Shampoo,Head & Shoulders,Shampoo,Tinea Capitis,Climbazole,4.3,Shampoo Head & Shoulders Treatment for tinea capitis
+58,Maple Holistics Pure Tea Tree Oil Shampoo,Maple Holistics,Shampoo,Tinea Capitis,Tea Tree Oil,4.5,Shampoo Maple Holistics Treatment for tinea capitis
+59,ArtNaturals Therapeutic Anti-Dandruff Shampoo,ArtNaturals,Shampoo,Tinea Capitis,Argan Oil,4.4,Shampoo ArtNaturals Treatment for tinea capitis
+60,Majestic Pure Tea Tree Shampoo,Majestic Pure,Shampoo,Tinea Capitis,Tea Tree Oil,4.3,Shampoo Majestic Pure Treatment for tinea capitis
+61,Nioxin Cleanser Shampoo,Nioxin,Shampoo,Alopecia Areata,Niacinamide,4.3,Shampoo Nioxin Treatment for alopecia areata
+62,Natural Hair Growth Shampoo with Biotin,Natural Hair Growth,Shampoo,Alopecia Areata,Biotin,4.4,Shampoo Natural Hair Growth Treatment for alopecia areata
+63,Ultrax Labs Hair Solaye Conditioner,Ultrax Labs,Conditioner,Alopecia Areata,Saw Palmetto,4.5,Conditioner Ultrax Labs Treatment for alopecia areata
+64,Maple Holistics Biotin Shampoo,Maple Holistics,Shampoo,Alopecia Areata,Biotin,4.6,Shampoo Maple Holistics Treatment for alopecia areata
+65,Pura D'or Hair Thinning Therapy Shampoo,Pura D'or,Shampoo,Alopecia Areata,Aloe Vera,4.5,Shampoo Pura D'or Treatment for alopecia areata
+66,Free & Clear Conditioner,Free & Clear,Conditioner,Contact Dermatitis,Glycerin,4.3,Conditioner Free & Clear Treatment for contact dermatitis
+67,SheaMoisture African Black Soap Deep Cleansing Shampoo,SheaMoisture,Shampoo,Contact Dermatitis,Aloe Vera,4.2,Shampoo SheaMoisture Treatment for contact dermatitis
+68,Eucerin DermoCapillaire pH5 Mild Shampoo,Eucerin,Shampoo,Contact Dermatitis,Urea,4.4,Shampoo Eucerin Treatment for contact dermatitis
+69,Aveeno Skin Relief Soothing Shampoo,Aveeno,Shampoo,Contact Dermatitis,Oatmeal,4.5,Shampoo Aveeno Treatment for contact dermatitis
+70,T/Sal Therapeutic Shampoo Scalp Build-Up Control,T/Sal,Shampoo,Contact Dermatitis,Salicylic Acid,4.3,Shampoo T/Sal Treatment for contact dermatitis
+71,SheaMoisture Raw Shea Butter Moisture Retention Shampoo,SheaMoisture,Shampoo,Dry Hair,Shea Butter,4.7,Shampoo SheaMoisture Treatment for dry hair
+72,L'Oréal Paris Elvive Extraordinary Oil Shampoo,L'Oréal Paris,Shampoo,Dry Hair,Coconut Oil,4.6,Shampoo L'Oréal Paris Treatment for dry hair
+73,Redken All Soft Shampoo,Redken,Shampoo,Dry Hair,Argan Oil,4.8,Shampoo Redken Treatment for dry hair
+74,Kérastase Nutritive Bain Satin 2 Shampoo,Kérastase,Shampoo,Dry Hair,Irisome Complex,4.9,Shampoo Kérastase Treatment for dry hair
+75,OGX Hydrate & Repair Argan Oil of Morocco Shampoo,OGX,Shampoo,Dry Hair,Argan Oil,4.6,Shampoo OGX Treatment for dry hair
+76,Tea Tree Special Shampoo,Tea Tree,Shampoo,Folliculitis,Tea Tree Oil,4.7,Shampoo Tea Tree Treatment for folliculitis
+77,Neutrogena T/Gel Stubborn Itch Control Shampoo,Neutrogena,Shampoo,Folliculitis,Coal Tar,4.4,Shampoo Neutrogena Treatment for folliculitis
+78,DermaHarmony 2% Pyrithione Zinc Shampoo,DermaHarmony,Shampoo,Folliculitis,Pyrithione Zinc,4.3,Shampoo DermaHarmony Treatment for folliculitis
+79,CLn Gentle Shampoo,CLn,Shampoo,Folliculitis,Sodium Hypochlorite,4.2,Shampoo CLn Treatment for folliculitis
+80,Aveeno Scalp Soothing Apple Cider Vinegar Blend Shampoo,Aveeno,Shampoo,Folliculitis,Apple Cider Vinegar,4.5,Shampoo Aveeno Treatment for folliculitis
+81,LiceLogic Clear & Free Shampoo,LiceLogic,Shampoo,Head Lice,Neem Oil,4.4,Shampoo LiceLogic Treatment for head lice
+82,Fairy Tales Rosemary Repel Lice Prevention Shampoo,Fairy Tales,Shampoo,Head Lice,Rosemary Oil,4.3,Shampoo Fairy Tales Treatment for head lice
+83,Babo Botanicals Lice Repel Shampoo,Babo Botanicals,Shampoo,Head Lice,Rosemary Oil,4.2,Shampoo Babo Botanicals Treatment for head lice
+84,SoCozy Boo! Lice Scaring Shampoo,SoCozy,Shampoo,Head Lice,Tea Tree Oil,4.5,Shampoo SoCozy Treatment for head lice
+85,Schooltime Shampoo for Lice and Nits,Schooltime,Shampoo,Head Lice,Coconut Oil,4.4,Shampoo Schooltime Treatment for head lice
+86,OGX Thick & Full Biotin & Collagen Shampoo,OGX,Shampoo,Healthy Hair,Biotin,4.7,Shampoo OGX Shampoo for healthy hair
+87,Maui Moisture Strength & Anti-Breakage Agave Shampoo,Maui Moisture,Shampoo,Healthy Hair,Agave,4.6,Shampoo Maui Moisture Shampoo for healthy hair
+88,Nexxus Keraphix Damage Healing Shampoo,Nexxus,Shampoo,Healthy Hair,Keratin,4.5,Shampoo Nexxus Shampoo for healthy hair
+89,Renpure Originals Biotin & Collagen Shampoo,Renpure,Shampoo,Healthy Hair,Biotin,4.6,Shampoo Renpure Shampoo for healthy hair
+90,Garnier Fructis Grow Strong Shampoo,Garnier,Shampoo,Healthy Hair,Apple Extract,4.5,Shampoo Garnier Shampoo for healthy hair
+91,Neutrogena T/Gel Extra Strength Therapeutic Shampoo,Neutrogena,Shampoo,Lichen Planus,Coal Tar,4.3,Shampoo Neutrogena Treatment for lichen planus
+92,Head & Shoulders Clinical Solutions,Head & Shoulders,Shampoo,Lichen Planus,Selenium Sulfide,4.4,Shampoo Head & Shoulders Treatment for lichen planus
+93,Tar Shampoo 4% Coal Tar,Tar,Shampoo,Lichen Planus,Coal Tar,4.2,Shampoo Tar Treatment for lichen planus
+94,T/Gel Therapeutic Shampoo,Neutrogena,Shampoo,Lichen Planus,Coal Tar,4.3,Shampoo Neutrogena Treatment for lichen planus
+95,Psorent Psoriasis Topical Solution,Psorent,Solution,Lichen Planus,Benzalkonium Chloride,4.1,Solution Psorent Treatment for lichen planus
+96,GoodSense Minoxidil Topical Solution,GoodSense,Solution,Male Pattern Baldness,Minoxidil,4.4,Solution GoodSense Treatment for male pattern baldness
+97,Essy Naturals Hair Growth Oil,Essy Naturals,Oil,Male Pattern Baldness,Caffeine,4.5,Oil Essy Naturals Treatment for male pattern baldness
+98,FOLIGAIN Triple Action Shampoo,FOLIGAIN,Shampoo,Male Pattern Baldness,Trioxidil,4.3,Shampoo FOLIGAIN Treatment for male pattern baldness
+99,Amplixin Intensive Biotin Hair Growth Serum,Amplixin,Serum,Male Pattern Baldness,Biotin,4.4,Serum Amplixin Treatment for male pattern baldness
+100,Equate Minoxidil Topical Solution,Equate,Solution,Male Pattern Baldness,Minoxidil,4.3,Solution Equate Treatment for male pattern baldness
+101,Puracy Natural Shampoo,Puracy,Shampoo,Psoriasis,Zinc Pyrithione,4.4,Shampoo Puracy Treatment for psoriasis
+102,Jason Dandruff Relief Treatment Shampoo,Jason,Shampoo,Psoriasis,Sulfur,4.3,Shampoo Jason Treatment for psoriasis
+103,Kenkoderm Psoriasis Therapeutic Shampoo,Kenkoderm,Shampoo,Psoriasis,Salicylic Acid,4.5,Shampoo Kenkoderm Treatment for psoriasis
+104,Wild Naturals Eczema & Psoriasis Shampoo,Wild Naturals,Shampoo,Psoriasis,Manuka Honey,4.4,Shampoo Wild Naturals Treatment for psoriasis
+105,Dermasolve Psoriasis Shampoo,Dermasolve,Shampoo,Psoriasis,Salicylic Acid,4.3,Shampoo Dermasolve Treatment for psoriasis
+106,BIOLAGE Scalpsync Anti-Dandruff Shampoo,BIOLAGE,Shampoo,Seborrheic Dermatitis,Pyrithione Zinc,4.5,Shampoo BIOLAGE Treatment for seborrheic dermatitis
+107,Selsun Blue Itchy Dry Scalp Anti-Dandruff Shampoo,Selsun Blue,Shampoo,Seborrheic Dermatitis,Selenium Sulfide,4.4,Shampoo Selsun Blue Treatment for seborrheic dermatitis
+108,Jason Dandruff Relief Treatment Shampoo,Jason,Shampoo,Seborrheic Dermatitis,Sulfur,4.3,Shampoo Jason Treatment for seborrheic dermatitis
+109,Dermarest Psoriasis Medicated Shampoo Plus Conditioner,Dermarest,Shampoo,Seborrheic Dermatitis,Salicylic Acid,4.4,Shampoo Dermarest Treatment for seborrheic dermatitis
+110,Neutrogena T/Gel Stubborn Itch Control Shampoo,Neutrogena,Shampoo,Seborrheic Dermatitis,Coal Tar,4.5,Shampoo Neutrogena Treatment for seborrheic dermatitis
+111,Advanced Trichology DHT Blocker with Immune Support,Advanced Trichology,Pills,Telogen Effluvium,Saw Palmetto,4.4,Pills Advanced Trichology Treatment for telogen effluvium
+112,Hair Growth Stimulating Shampoo by Watermans,Watermans,Shampoo,Telogen Effluvium,Caffeine,4.5,Shampoo Watermans Treatment for telogen effluvium
+113,HairGenics Pronexa Clinical Strength Hair Growth Therapy Shampoo,HairGenics,Shampoo,Telogen Effluvium,Biotin,4.3,Shampoo HairGenics Treatment for telogen effluvium
+114,Thicker Fuller Hair Revitalizing Shampoo,Thicker Fuller Hair,Shampoo,Telogen Effluvium,Caffeine,4.4,Shampoo Thicker Fuller Hair Treatment for telogen effluvium
+115,Majestic Pure Hair Loss Shampoo,Majestic Pure,Shampoo,Telogen Effluvium,Biotin,4.3,Shampoo Majestic Pure Treatment for telogen effluvium
+116,Dr. Eddie’s Happy Cappy Medicated Shampoo,Dr. Eddie’s,Shampoo,Tinea Capitis,Pyrithione Zinc,4.4,Shampoo Dr. Eddie’s Treatment for tinea capitis
+117,Natural Riches Tea Tree Oil Shampoo,Natural Riches,Shampoo,Tinea Capitis,Tea Tree Oil,4.5,Shampoo Natural Riches Treatment for tinea capitis
+118,Derma-nu Anti-Fungal Therapeutic Shampoo,Derma-nu,Shampoo,Tinea Capitis,Tea Tree Oil,4.4,Shampoo Derma-nu Treatment for tinea capitis
+119,Biotin Hair Growth Shampoo by Paisle Botanics,Paisle Botanics,Shampoo,Tinea Capitis,Biotin,4.3,Shampoo Paisle Botanics Treatment for tinea capitis
+120,First Botany Cosmeceuticals Tea Tree Oil Body & Foot Wash,First Botany,Body Wash,Tinea Capitis,Tea Tree Oil,4.4,Body Wash First Botany Treatment for tinea capitis
