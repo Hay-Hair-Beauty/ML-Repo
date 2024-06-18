@@ -1,5 +1,6 @@
 # Hay Healthy - Scan Hair Predict
-This is a Capstone Project part Machine Learning-- <br/>
+![LOGO HAY-02](https://github.com/Hay-Hair-Beauty/ML-Repo/assets/101098216/e8ac271b-59aa-4db2-a926-1b94d9800283)
+This is a Capstone Project part Machine Learning <br/>
 We created a Tensorflow model to predict hair on a person. Thus, we hope to easily predict whether a user has a hair disease or not.
 
 ## Project Structure
